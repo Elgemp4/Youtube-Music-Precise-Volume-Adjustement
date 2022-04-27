@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Allow you to precisely chose your volume on Youtube Music
+// @downloadURL  https://github.com/Elgemp4/Youtube-Music-Precise-Volume-Adjustement/raw/main/Youtube%20Music%20Precise%20Volume%20Adjustement.user.js
 // @author       Elgem
 // @match        https://music.youtube.com/*
 // @icon         https://music.youtube.com/img/favicon_144.png
