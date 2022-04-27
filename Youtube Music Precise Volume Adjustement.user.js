@@ -46,6 +46,7 @@
         volumeBar.setAttribute("step", "1");
 
         volumeBar.addEventListener("change", (e) => {modifyVolume(e.target.value)})
+        volumeBar.addEventListener("immediate-value-change", (e) => {modifyVolume(e.target.value)})
     }
 
     function createVolumeInput(){
