@@ -8,6 +8,7 @@
 // @match        https://music.youtube.com/*
 // @icon         https://music.youtube.com/img/favicon_144.png
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
